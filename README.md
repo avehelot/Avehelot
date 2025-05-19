@@ -1,9 +1,6 @@
-<!-- 🌀 SRINIDHI MUGASATI: BLOOD IN CODE, CHAOS IN CONTROL -->
 
 <p align="center">
-  <img src="https://i.imgur.com/Jq3Z6JK.gif" width="100%">
-</p>
-
+ 
 <h1 align="center">
   <span style="color:#ff0000;font-weight:bold">SRINIDHI MUGASATI</span>
 </h1>
