@@ -1,110 +1,93 @@
+![Blood Banner](https://i.imgur.com/Jq3Z6JK.gif)
+
+<h1 align="center">
+  <span style="color:#ff0000">SRINIDHI MUGASATI</span>
+</h1>
+
+<h3 align="center">
+  <span style="color:#aa0000">Backend Developer | Code Reaper | Ghost in the Shell</span>
+</h3>
+
+---
+
+```bash
+> Welcome to the chaos, bitch.
+> No front-end. No mobile apps. Just raw backend sorcery.
+> Code, bleed, repeat.
+```
+
+---
+
 <div align="center">
-  <!-- 🔥 Phantom Entrance -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=900&lines=👻+Ave+Helot+%7C+Phantom+Mode+Engaged" alt="Ave Phantom Typing SVG" />
-  </a>
+  <img src="https://media.tenor.com/6eKlR0WvWqUAAAAC/blood-drip.gif" width="250"/>
+</div>
 
-  <!-- 🖤 Subtitle -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Professor.+Phantom.+Prodigy.;Code+Execution+Level:+Lethal.;Dream+in+Python,+Bleed+in+C.">
-  </h3>
+### 🩸 Portfolio
+🔗 [avehelot.netlify.app](https://avehelot.netlify.app)
 
-  <!-- 👾 Animated Phantom Hacker -->
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="320" style="border-radius:16px; box-shadow: 0 8px 30px rgba(0,255,170,0.3);" />
+### 🧠 Who the hell am I?
+- 🖤 Name: **Srinidhi Mugasati**
+- 💀 Backend badass. No CSS. No Figma. No Flutter. Fuck that.
+- 🧬 Fluent in: Python, Node.js, Django, FastAPI, PostgreSQL, MongoDB, Docker, Redis, Kafka.
+- 👻 Formerly human. Currently somewhere between caffeine and chaos.
+
+---
+
+### 🔪 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-ff0000?style=for-the-bitches&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-bitches&logo=django&logoColor=green"/>
+  <img src="https://img.shields.io/badge/FastAPI-blood?style=for-the-bitches&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-bitches&logo=postgresql&logoColor=ff0000"/>
+  <img src="https://img.shields.io/badge/MongoDB-red?style=for-the-bitches&logo=mongodb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redis-black?style=for-the-bitches&logo=redis&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Docker-blood?style=for-the-bitches&logo=docker&logoColor=white"/>
 </div>
 
 ---
 
-### ⚔️ Welcome to the Phantom's Lair
-
+### 🔥 Current Status
 ```py
-class Phantom:
+class Srinidhi:
     def __init__(self):
-        self.alias = ["Ave", "The Phantom", "Helot"]
-        self.skillset = ["Python", "C++", "React", "Node.js", "AI/ML", "Cybersecurity"]
-        self.mode = "God Level"
-        self.ideology = "No Permission Needed to Be Legendary"
+        self.frontend = False
+        self.backend = True
+        self.mood = "Wreck shit"
 
-    def speak(self):
-        return "🩸 Results > Rules"
+    def now(self):
+        return "Building bloody backend systems & killing bugs for breakfast."
+```
 
-ave = Phantom()
-ave.speak()
+---
 
-from datetime import datetime
-import random
+### 💌 Contact
+- Gmail: [srinidhimugasati0107@gmail.com](mailto:srinidhimugasati0107@gmail.com)
+- LinkedIn: bitch I don't have one.
+- Portfolio: [avehelot.netlify.app](https://avehelot.netlify.app)
 
-# Set current time and mood
-now = datetime.utcnow()
-time_str = now.strftime("%Y-%m-%d %H:%M:%S UTC")
-moods = ["Focused 🔥", "Restless 🌪️", "Calm ☁️", "Lethal ⚔️", "Unbothered 🧊"]
-mood = random.choice(moods)
+---
 
-# Random quote + tip
-quotes = [
-    "You don’t need permission to be legendary.",
-    "Silence is the best rebuttal.",
-    "Code like every line decides fate.",
-    "Forget rules. Remember outcomes.",
-    "Every bug teaches a new battle tactic."
-]
-tips = [
-    "Pro tip: `git stash` before risky rebases.",
-    "Shortcut: Use `npx` for quick CLI testing.",
-    "Reminder: Never push secrets.",
-    "Wisdom: Don't repeat yourself. Abstract it.",
-    "Dev tip: Focus is the final form of intelligence."
-]
-quote = random.choice(quotes)
-tip = random.choice(tips)
-
-# Construct the README content
-readme_content = f"""\
+### 🕯️ GitHub Stats
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=900&lines=👻+Ave+Helot+%7C+Phantom+Mode+Engaged" alt="Ave Phantom Typing SVG" />
-  </a>
-
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Professor.+Phantom.+Prodigy.;Code+Execution+Level:+Lethal.;Dream+in+Python,+Bleed+in+C.">
-  </h3>
-
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="320" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avehelot&theme=dark&hide_border=true&show_icons=true&title_color=ff0000&icon_color=ff0000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avehelot&theme=dark&hide_border=true&layout=compact&title_color=ff0000"/>
 </div>
 
 ---
 
-### ⚔️ Welcome to the Phantom's Lair
+### 💣 Vibe Check
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=FF0000&center=true&vCenter=true&width=435&lines=No+frontend+allowed.;Back-end+til+I+bleed.;You+can't+out-code+me+cunt.;See+you+in+the+logs."/>
+</div>
 
-```py
-class Phantom:
-    def __init__(self):
-        self.alias = ["Ave", "The Phantom", "Helot"]
-        self.skillset = ["Python", "C++", "React", "Node.js", "AI/ML", "Cybersecurity"]
-        self.mode = "God Level"
-        self.ideology = "No Permission Needed to Be Legendary"
+---
 
-    def speak(self):
-        return "🩸 Results > Rules"
+> _"You're either a bug... or you're the one who kills it."_
+> 
+> — **SRINIDHI** 🩸
 
-ave = Phantom()
-ave.speak()
-<!-- PHANTOM'S LAIR START -->
-<h2 align="center">🕷️ PHANTOM'S LAIR</h2>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B81&center=true&vCenter=true&width=435&lines=Accessing+encrypted+files...;Authentication+complete.;Welcome,+Ave+(Phantom);Loading+%23Project+Obsidian" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e3/e0/32/e3e0320fae190f08ec300066221274c2.gif" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=obsidian-vault&theme=radical&border_color=FF6B81&title_color=FF6B81" />
-</p>
-
-<p align="center">
-  <i><b>“The shadows remember.”</b> - Ave</i>
-</p>
-<!-- PHANTOM'S LAIR END -->
+<div align="center">
+  <img src="https://i.gifer.com/origin/f9/f9616c013ee39eac4f4441287e01452f.gif" width="200"/>
+</div>
