@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  <span style="color:#aa0000">Backend cunt | Quantum Code cunt  | AVE WHO ??</span>
+  <span style="color:#aa0000">Backend | Quantum Code | AVE WHO ??</span>
 </h3>
 
 <p align="center">
@@ -16,9 +16,9 @@
 ---
 
 ```bash
-> Welcome to my fucking GitHub.
+> Welcome to my GitHub.
 > I don’t push pixels. I push the goddamn backend.
-> Quantum computing bitch and yes i do run on caffine 
+> Quantum computing is my bitch and yes i do run on caffine 
 ```
 
 ---
@@ -28,14 +28,14 @@
 
 ---
 
-### 🔥 WHO TF AM I?
+###  Ave
 
 - 🧵 Srinidhi Mugasati
-- 🛡️ Backend Demigod with a bent ass quantum spine
-- 🧨 Python is my middle name and im tech savvy asf
+- 🛡️ Backend Developer with a bent ass quantum spine
+- 🧨 Python is my middle name and im tech shrewd asf
 - 🚀 Frontend is for losers
 - 🪖 My code is weird af
-- 💀 Quantum Computing | AI | Distributed Systems | You name it, I broke it 
+- 💀 Quantum Computing | AI | Distributed Systems | You name it, I do it 
 - ☕ Sleep is a myth. Bugs fear my name.
 
 ---
@@ -81,14 +81,14 @@ print(srinidhi.execute())
 
 ---
 
-### 📧 CONTACT ME IF YOU AINT A PUSSY
+### 📧 CONTACTs
 - Gmail: [srinidhimugasati0107@gmail.com](mailto:srinidhimugasati0107@gmail.com)
 - Portfolio: [avehelot.netlify.app](https://avehelot.netlify.app)
-- LinkedIn: GTFO
+- LinkedIn: yea noo
 
 ---
 
-### 🔋 GITHUB STATS (Not For the Weak)
+### 🔋 GITHUB STATS 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avehelot&theme=tokyonight&hide_border=true&show_icons=true&title_color=ff0000&icon_color=ff0000"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avehelot&theme=tokyonight&hide_border=true&layout=compact&title_color=ff0000"/>
