@@ -1,12 +1,11 @@
-
 <p align="center">
- 
-<h1 align="center">
-  <span style="color:#ff0000;font-weight:bold">SRINIDHI MUGASATI</span>
-</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=SRINIDHI+MUGASATI;Writer+%7C+Poet+%7C+Student;Backend+Developer+%7C+Physics+%26+Philosophy+Enthusiast;Quantum+Computing+%7C+AI+%7C+Distributed+Systems" alt="Typing SVG"/>
+</p>
 
-<h3 align="center">
-  <span style="color:#aa0000">Backend | Physics | Writer </span>
+---
+
+<h3 align="center"> 
+  <span style="color:#ff0000">⚡ Backend | Physics | Writer ⚡</span>
 </h3>
 
 <p align="center">
@@ -18,83 +17,48 @@
 ```bash
 > Welcome to my GitHub.
 > Exploring the universe through verse and reason. 
-```
+---
+🌐 Portfolio
+
+✨ avehelot.netlify.app
+
+ About Me
+
+🖋️ Writer & Poet | Enthusiast of physics, philosophy, robotics, and the written word
+
+⚙️ Backend Developer, dabbling in Quantum Computing, AI, and Distributed Systems
+
+🧠 Loves breaking down big ideas into code & verse
+
+💻 "If it runs, it’s magic. If it scales, it’s art."
 
 ---
 
-###  Portfolio
-✨ [avehelot.netlify.app](https://avehelot.netlify.app)
-
----
-
-###  Ave
-
- Srinidhi Mugasati
-- Backend Developer 
-- Enthusiast of physics, philosophy, robotics and the written word.
-- Quantum Computing | AI | Distributed Systems | You name it, I do it 
-
-
----
-
-### ⚔️ Tech Arsenal
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%23ff0000?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Django-%23000000?style=for-the-badge&logo=django&logoColor=green"/>
-  <img src="https://img.shields.io/badge/FastAPI-%23aa0000?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23000000?style=for-the-badge&logo=postgresql&logoColor=ff0000"/>
-  <img src="https://img.shields.io/badge/MongoDB-%23aa0000?style=for-the-badge&logo=mongodb&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redis-%23000000?style=for-the-badge&logo=redis&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Docker-%23aa0000?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-%23000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quantum-Python-%23ff0000?style=for-the-badge&logo=qiskit&logoColor=white"/>
-</p>
-
----
-
-
----
-
-###  👾 STATUS 👾
-```python
+⚔️ Tech Arsenal
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,django,fastapi,postgresql,mongodb,redis,docker,kafka,git,linux" /> </p>
+👾 Status
 class Phantom:
     def __init__(self):
         self.frontend = False
+        self.backend = True
+        self.cpp = True
         self.quantum_backend = True
         self.energy = "demonic"
         self.humanity = 0.07
         self.debug_mode = False
 
     def execute(self):
-        return "Code. Deploy"
+        return "Code. Deploy. Repeat."
 
 srinidhi = Phantom()
 print(srinidhi.execute())
-```
 
----
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=avehelot&theme=tokyonight&hide_border=true&show_icons=true&title_color=ff0000&icon_color=ff0000" height="180em"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=avehelot&theme=tokyonight&hide_border=true&ring=ff0000&fire=ff0000" height="180em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avehelot&layout=compact&theme=tokyonight&hide_border=true&title_color=ff0000" height="180em"/> </p>
+📧 Contacts
 
-### 📧 CONTACTs
-- Gmail: [srinidhimugasati0107@gmail.com](mailto:srinidhimugasati0107@gmail.com)
-- Portfolio: [avehelot.netlify.app](https://avehelot.netlify.app)
+📩 Gmail: srinidhimugasati0107@gmail.com
 
+🌐 Portfolio: avehelot.netlify.app
 
----
-
-### 🔋 GITHUB STATS 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avehelot&theme=tokyonight&hide_border=true&show_icons=true&title_color=ff0000&icon_color=ff0000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avehelot&theme=tokyonight&hide_border=true&layout=compact&title_color=ff0000"/>
-</p>
-
----
-
-
-> "I don’t care if it compiles." Those were my last words.
->  — <span style="color:#ff0000">Ave</span>
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/f9/f9616c013ee39eac4f4441287e01452f.gif" width="200"/>
-</p>
-
----
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%22I+don’t+care+if+it+compiles.%22;--Ave" alt="Typing SVG"/> </p> <p align="center"> <img src="https://i.gifer.com/origin/f9/f9616c013ee39eac4f4441287e01452f.gif" width="200"/> </p> ```
