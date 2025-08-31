@@ -81,6 +81,4 @@ print(srinidhi.execute())
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%22I+don’t+care+if+it+compiles.%22;--Ave" alt="Typing SVG"/>
 </p> 
 
-<p align="center">
-  <img src="https://i.gifer.com/origin/f9/f9616c013ee39eac4f4441287e01452f.gif" width="200"/>
-</p>
+
