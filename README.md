@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  <span style="color:#aa0000">Backend | Quantum Code | AVE WHO ??</span>
+  <span style="color:#aa0000">Backend | Physics | Writer </span>
 </h3>
 
 <p align="center">
@@ -17,26 +17,23 @@
 
 ```bash
 > Welcome to my GitHub.
-> I don’t push pixels. I push the goddamn backend.
-> Quantum computing is my bitch and yes i do run on caffine 
+> Exploring the universe through verse and reason. 
 ```
 
 ---
 
-### ⚔️ Portfolio
+###  Portfolio
 ✨ [avehelot.netlify.app](https://avehelot.netlify.app)
 
 ---
 
 ###  Ave
 
-- 🧵 Srinidhi Mugasati
-- 🛡️ Backend Developer with a bent ass quantum spine
-- 🧨 Python is my middle name and im tech shrewd asf
-- 🚀 Frontend is for losers
-- 🪖 My code is weird af
-- 💀 Quantum Computing | AI | Distributed Systems | You name it, I do it 
-- ☕ Sleep is a myth. Bugs fear my name.
+ Srinidhi Mugasati
+- Backend Developer 
+- Enthusiast of physics, philosophy, robotics and the written word.
+- Quantum Computing | AI | Distributed Systems | You name it, I do it 
+
 
 ---
 
@@ -55,10 +52,6 @@
 
 ---
 
-### ⚡ VIBE CHECK
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=FF0000&center=true&vCenter=true&width=435&lines=No+frontend.;Just+raw+logic.;Quantum+chaos+unleashed.;I+bleed+Python%2C+bitch."/>
-</p>
 
 ---
 
@@ -84,7 +77,7 @@ print(srinidhi.execute())
 ### 📧 CONTACTs
 - Gmail: [srinidhimugasati0107@gmail.com](mailto:srinidhimugasati0107@gmail.com)
 - Portfolio: [avehelot.netlify.app](https://avehelot.netlify.app)
-- LinkedIn: yea noo
+
 
 ---
 
@@ -96,17 +89,9 @@ print(srinidhi.execute())
 
 ---
 
-### 👽WeIrD sHiT i LoVe👽
-- 🎶 Coding to bleeding synths🎶
-- ☠️ Glitch art and blood-drip GIFs☠️ 
-- 🔥 Pushing commits like war cries🔥
-- 👻 Hanging out in root directories👻
-- 🌪 Quantum jokes no one gets🌪 
 
----
-
-> "I don’t care if it compiles."
->  — <span style="color:#ff0000">Ave, and im a bitch blud.</span>
+> "I don’t care if it compiles." Those were my last words.
+>  — <span style="color:#ff0000">Ave</span>
 
 <p align="center">
   <img src="https://i.gifer.com/origin/f9/f9616c013ee39eac4f4441287e01452f.gif" width="200"/>
